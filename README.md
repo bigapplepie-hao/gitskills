@@ -17,3 +17,4 @@ master branch data
 dev branch fixed some data
 
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+add a new branch is simple
