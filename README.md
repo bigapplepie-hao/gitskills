@@ -17,4 +17,6 @@ master branch data
 dev branch fixed some data
 
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-create a mster is simple
+<<<<<<< HEAD
+create a mster is simple add a new branch is simple
+>>>>>>> feature1
